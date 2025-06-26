@@ -476,9 +476,9 @@ For a detailed reference and access to the complete code implementation, you can
 
 And don't forget to connect with me on social media to stay updated with the latest tips, tutorials, and guides:
 
-- **LinkedIn:** [**shaikahmadnawaz**](https://www.linkedin.com/in/shaikahmadnawaz)
-- **Twitter:** [**shaikahmadnawaz**](https://twitter.com/shaikahmadnawaz)
-- **GitHub:** [**shaikahmadnawaz**](https://github.com/shaikahmadnawaz)
+- **LinkedIn:** [**aditi**]()
+- **Twitter:** [**aditi**]()
+- **GitHub:** [**aditi**]()
 =======
 # Talkify
 >>>>>>> d19dfbf9a3910cfa74a9cfb05a40d64be36c3f1f
