@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Building a Real-Time Chat in Your React and Node.js App with Socket.IO
 
 Welcome, fellow developers, to an exciting journey into the world of real-time chat! In today's digital landscape, real-time communication has become an essential component of many web applications. Whether you're building a social networking platform, a collaborative tool, or simply looking to engage your users more effectively, adding real-time chat can be a game-changer.
@@ -478,3 +479,6 @@ And don't forget to connect with me on social media to stay updated with the lat
 - **LinkedIn:** [**shaikahmadnawaz**](https://www.linkedin.com/in/shaikahmadnawaz)
 - **Twitter:** [**shaikahmadnawaz**](https://twitter.com/shaikahmadnawaz)
 - **GitHub:** [**shaikahmadnawaz**](https://github.com/shaikahmadnawaz)
+=======
+# Talkify
+>>>>>>> d19dfbf9a3910cfa74a9cfb05a40d64be36c3f1f
